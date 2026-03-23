@@ -1,0 +1,24 @@
+{
+  "name": "create-emalang",
+  "version": "1.0.0",
+  "description": "EMA Project Initializer - High Performance Full-Stack Engine",
+  "main": "index.js",
+  "bin": {
+    "create-emalang": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ema",
+    "create-ema",
+    "emalang",
+    "initializer",
+    "scaffold"
+  ],
+  "author": "aydocs",
+  "license": "MIT",
+  "dependencies": {
+    "ema": "^0.0.6"
+  }
+}
