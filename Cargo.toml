@@ -1,8 +1,8 @@
 [package]
 name = "ema_compiler"
 version = "0.1.0"
-edition = "2021"
-authors = ["emadocstechnologies", "aydocs"]
+edition = "2026"
+authors = ["aydocs"]
 description = "EmaLang Bootstrap Compiler Frontend"
 
 [dependencies]
